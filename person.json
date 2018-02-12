@@ -1,0 +1,13 @@
+{
+    "first-name": "kalden",
+    "second-name": "tsering",
+    "age": 21,
+    "married": true,
+    "hobbie": null,
+    "experience": ["C", "JavaScrpit", "C++"],
+    "address": {
+        "street":"12 king",
+        "state": "on",
+        "post": "m6k1"
+    }
+}
